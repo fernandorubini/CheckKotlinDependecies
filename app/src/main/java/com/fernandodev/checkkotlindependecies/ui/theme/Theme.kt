@@ -1,4 +1,4 @@
-package com.fernandodev.checkkotlindependecies.ui.theme
+package com.fernandodev.checkkotlindependencies.ui.theme
 
 import android.app.Activity
 import android.os.Build

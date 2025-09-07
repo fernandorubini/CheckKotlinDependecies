@@ -1,4 +1,4 @@
-package com.fernandodev.checkkotlindependecies
+package com.fernandodev.checkkotlindependencies
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.fernandodev.checkkotlindependecies.ui.theme.CheckKotlinDependeciesTheme
+import com.fernandodev.checkkotlindependencies.ui.theme.CheckKotlinDependeciesTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

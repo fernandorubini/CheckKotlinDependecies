@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.fernandodev.checkkotlindependecies"
+    namespace = "com.fernandodev.checkkotlindependencies"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.fernandodev.checkkotlindependecies"
+        applicationId = "com.fernandodev.checkkotlindependencies"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -79,3 +79,4 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 }
+

@@ -20,5 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Check Kotlin Dependecies"
+rootProject.name = "Check Kotlin Dependencies"
 include(":app")
+

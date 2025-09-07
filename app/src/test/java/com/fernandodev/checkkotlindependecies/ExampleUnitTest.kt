@@ -1,4 +1,4 @@
-package com.fernandodev.checkkotlindependecies
+package com.fernandodev.checkkotlindependencies
 
 import org.junit.Test
 
