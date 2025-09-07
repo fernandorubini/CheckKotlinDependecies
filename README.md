@@ -166,3 +166,5 @@ www.linkedin.com/in/fernando-rubini-dev-549abb24
 
 
 [![CI](https://github.com/fernandorubini/CheckKotlinDependecies/actions/workflows/android-ci.yml/badge.svg)](https://github.com/fernandorubini/CheckKotlinDependecies/actions/workflows/android-ci.yml)
+
+[![CI](https://github.com/fernandorubini/CheckKotlinDependecies/actions/workflows/android-ci.yml/badge.svg)](https://github.com/fernandorubini/CheckKotlinDependecies/actions/workflows/android-ci.yml)
