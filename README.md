@@ -154,6 +154,9 @@ Tópicos
 
 android · kotlin · jetpack-compose · gradle · androidx · junit5 · template · ci-cd
 
+[![CI](https://github.com/fernandorubini/CheckKotlinDependecies/actions/workflows/android-ci.yml/badge.svg)](https://github.com/fernandorubini/CheckKotlinDependecies/actions/workflows/android-ci.yml)
+
+
 
 Autor
 
@@ -161,3 +164,5 @@ Fernando Rubini
 https://github.com/fernandorubini
 www.linkedin.com/in/fernando-rubini-dev-549abb24
 
+
+[![CI](https://github.com/fernandorubini/CheckKotlinDependecies/actions/workflows/android-ci.yml/badge.svg)](https://github.com/fernandorubini/CheckKotlinDependecies/actions/workflows/android-ci.yml)
